@@ -14,7 +14,10 @@ Images with the steering angle was  considered to develop the model. Since the m
 
 ## Step 3
 
-Preprocessing the images is performed before training the model using opencv techniques. The CNN regression model was then implemented to predict the steering angle of the car and would gain full access of the moving. 
+Preprocessing the images is performed before training the model using opencv techniques. The CNN regression model was then implemented to predict the steering angle of the car and would gain full access of the moving. (Here only the images from the front camera was used)
+
+![self](https://user-images.githubusercontent.com/71375214/129692641-b0b2ced1-fec5-44ba-a1d2-3c5004e58961.png)
+
 
 Once the model was built it was rigged up with the simulator to predict the steering angle according to images provide by the simulator.
 
